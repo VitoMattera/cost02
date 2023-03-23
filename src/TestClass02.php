@@ -1,5 +1,5 @@
 <?php
-namespace Cost\Cost02;
+namespace Cost02;
 class TestClass02 {
     public $name = "";
     public $surname = "";
